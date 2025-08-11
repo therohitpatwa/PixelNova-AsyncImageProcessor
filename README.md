@@ -1,1 +1,1 @@
-# AsyncImageProcessor-GrayScale
+# AsyncImageProcessor-PixelNova
