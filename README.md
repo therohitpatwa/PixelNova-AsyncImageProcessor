@@ -25,7 +25,7 @@ Functionally, the application can:
 ### 2. LLD (Low-Level Design)
 
 
-![Alt text for the image](<img width="1349" height="797" alt="Screenshot 2025-08-12 041712" src="https://github.com/user-attachments/assets/442816ea-fe8a-45f5-b36a-193d31cdc3af" />
+(<img width="1349" height="797" alt="Screenshot 2025-08-12 041712" src="https://github.com/user-attachments/assets/442816ea-fe8a-45f5-b36a-193d31cdc3af" />
 )
 
 ---
