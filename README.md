@@ -1,4 +1,4 @@
-# PixelNova: An Asynchronous Image Processor
+# PixelNova: An Async Image Processor
 
 Have you ever wondered how image filters on popular apps like Instagram or Snapchat work? While they might seem complex, the basic principles of image filtering are quite accessible. This project, **PixelNova**, is a simple image filtering application built with Java and JavaFX to demonstrate these concepts.
 
